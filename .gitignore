@@ -1,0 +1,5 @@
+*.o
+.*.swp
+main_dimacs
+gtest-all.o
+pcst_fast_test
